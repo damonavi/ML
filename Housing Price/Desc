@@ -1,0 +1,6 @@
+Housing Price Predictor
+The house prices of city of Boston of around 1460 houses are provided 
+with various features and attributes which sums to about 81 features. 
+The goal is to build a Machine Learning model which prdicts the price 
+of unlabelled houses and root mean squared of log errors of predicted 
+and actual prices are used as an estimator.
