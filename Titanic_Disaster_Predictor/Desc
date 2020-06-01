@@ -1,0 +1,5 @@
+Titanic Disaster Survival Prediction Problem
+Given a set of features of individual person in terms of
+age,fare,ticket,class,sex,embarked etc, we have to predict
+whether that person would survive or not in the disaster 
+using a set of pre-labelled example.
